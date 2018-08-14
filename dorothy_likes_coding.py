@@ -10,6 +10,8 @@ def age(a):
         print ("you should go back to the womb")
     if a <= -1:
         print ("doro is sad")
+    if a >= 45:
+        print("you can be ocean's sugar daddy/mommy")
         
         
 
